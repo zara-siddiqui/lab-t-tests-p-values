@@ -6,8 +6,8 @@
 
 1. We will have another simple example on two sample t test. But this time this is a one sided t-test
 
-In a packing plant, a machine packs cartons with jars. It is supposed that a new machine will pack faster on the average than the machine currently used. To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. The results, in seconds, are shown in the tables in the file `files_for_lab/machine.txt`.
-Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other
+   In a packing plant, a machine packs cartons with jars. It is supposed that a new machine will pack faster on the average than the machine currently used. To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. The results, in seconds, are shown in the tables in the file `files_for_lab/machine.txt`.
+   Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other
 
 2. An additional problem, this is a two sided t-test: 
    Independent random samples of 17 sophomores and 13 juniors attending a large university yield the following data on grade point averages. Data is provided in the file `files_for_lab/student_gpa.txt`.
