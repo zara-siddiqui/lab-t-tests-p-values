@@ -12,7 +12,7 @@
 
 # Inferential statistics - ANOVA
 
-Note: The following lab is divided in 2 sections which represent activities 3 and 4.
+Note: The following lab is divided in 2 sections.
 
 ## Part 1
 
