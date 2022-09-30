@@ -10,9 +10,9 @@
 2. *Matched Pairs Test* - In this challenge we will compare dependent samples of data describing our Pokemon (file `files_for_lab/pokemon.csv`). Our goal is to see whether there is a significant difference between each Pokemon's defense and attack scores. Our hypothesis is that the defense and attack scores are equal. Compare the two columns to see if there is a statistically significant difference between them and comment your result.
 
 
-# OPTIONAL PART | Inferential statistics - ANOVA
+# Inferential statistics - ANOVA
 
-Note: The following lab is divided in 2 sections which represent activities 3 and 4.
+Note: The following lab is divided in 2 sections.
 
 ## Part 1
 
