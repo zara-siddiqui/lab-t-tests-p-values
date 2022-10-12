@@ -23,20 +23,26 @@ In this activity, we will look at another example. Your task is to understand th
     - Test statistic
     - P-value
     - F table
+    
+
 
 ### Context
 
-Suppose you are working as an analyst in a microprocessor chip manufacturing plant. You have been given the task of analyzing a plasma etching process with respect to changing Power (in Watts) of the plasma beam. Data was collected and provided to you to conduct statistical analysis and check if changing the power of the plasma beam has any effect on the etching rate by the machine. You will conduct ANOVA and check if there is any difference in the mean etching rate for different levels of power. You can find the data `anova_lab_data.xlsx` file in the `files_for_lab` folder  
+In this challenge,we will return to the Pokemon dataset.   We want to understand whether there are significant differences among various types of pokemons' Total value, i.e. Grass vs Poison vs Fire vs Dragon... There are many types of pokemons which makes it a perfect use case for ANOVA. (file `files_for_lab/pokemon.csv`)
+First let's obtain the unique values of the pokemon types.
+Second we will create a list named pokemon_totals to contain the Total values of each unique type of pokemons.
+Third we run ANOVA test on pokemon_totals.
+
 
 - State the null hypothesis
 - State the alternate hypothesis
 - What is the significance level
 - What are the degrees of freedom of model, error terms, and total DoF
 
-Data was collected randomly and provided to you in the table as shown: [link to the image - Data](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/7.05/7.05-lab_data.png)
 
 
 ## Part 2
 
-- In this section, use the Python to conduct ANOVA.
+
 - What conclusions can you draw from the experiment and why?
+- Interpret the ANOVA test result. Is the difference significant?
