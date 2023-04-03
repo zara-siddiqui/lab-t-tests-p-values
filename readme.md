@@ -2,7 +2,7 @@
 
 # Lab | Inferential statistics - T-test & P-value
 
-### Instructions
+## Part 1
 
 1. *One tailed t-test* - In a packing plant, a machine packs cartons with jars. It is supposed that a new machine will pack faster on the average than the machine currently used. To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. The results, in seconds, are shown in the tables in the file `files_for_lab/ttest_machine.xlsx.`.
    Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other?
@@ -14,7 +14,7 @@
 
 Note: The following lab is divided in 2 sections.
 
-## Part 1
+## Part 2.1
 
 In this activity, we will look at another example. Your task is to understand the problem and write down all the steps to set up ANOVA. After the next lesson, we will ask you to solve this problem using Python. Here are the steps that you would need to work on:
     - Null hypothesis
@@ -41,7 +41,7 @@ Third we run ANOVA test on pokemon_totals.
 
 
 
-## Part 2
+## Part 2.2
 
 
 - What conclusions can you draw from the experiment and why?
